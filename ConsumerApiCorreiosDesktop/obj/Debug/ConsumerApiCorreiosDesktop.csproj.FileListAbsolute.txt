@@ -1,0 +1,10 @@
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\bin\Debug\ConsumerApiCorreiosDesktop.exe.config
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\bin\Debug\ConsumerApiCorreiosDesktop.exe
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\bin\Debug\ConsumerApiCorreiosDesktop.pdb
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.csprojAssemblyReference.cache
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.Properties.Resources.resources
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.csproj.GenerateResource.cache
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.csproj.CoreCompileInputs.cache
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.exe
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.pdb
+C:\workspace\NetCore\ConsumerApiCorreiosDesktop\obj\Debug\ConsumerApiCorreiosDesktop.FormApi.resources
